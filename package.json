@@ -1,0 +1,30 @@
+{
+  "name": "coppercapfarm",
+  "version": "1.0.0",
+  "description": "A website for Copper Cap farm built with Eleventy and Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tr0pical1nternet/coppercapfarm.git"
+  },
+  "keywords": [
+    "horse",
+    "farm",
+    "website",
+    "eleventy",
+    "gulp"
+  ],
+  "author": "Charles Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tr0pical1nternet/coppercapfarm/issues"
+  },
+  "homepage": "https://github.com/tr0pical1nternet/coppercapfarm#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "gulp": "^4.0.2"
+  }
+}
