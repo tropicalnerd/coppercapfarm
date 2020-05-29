@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+/* Variables */
+
+$font-family_heading: "Century Gothic", AvenirNext-Bold, Futura-Medium, "Trebuchet MS", sans-serif;
+$font-family_body: Georgia, serif;
+$color_black: #111111;
+$color_white: #F0F0F0;
+
+
+h1, h2, h3, h4, h5 {
+    font-family: $font-family_heading;
+    font-weight: 700;
+}
+
+body {
+    font-family: $font-family_body;
+    font-weight: 400;
+}
