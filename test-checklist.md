@@ -1,5 +1,4 @@
 # Website Testing Checklist
-----
 
 ## SEO
 - [ ] Site meta description
